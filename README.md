@@ -47,7 +47,7 @@ understand the concepts of this book.
 
 
 ### Related products <Other books you may enjoy>
-* Network Science with Python [[Packt]](https://www.packtpub.com/product/network-science-with-python/9781801073691) [[Amazon]](https://www.amazon.com/dp/1804617520)
+* Network Science with Python [[Packt]](https://www.packtpub.com/product/network-science-with-python/9781801073691) [[Amazon]](https://www.amazon.com/dp//B0BJKP7R4P)
 
 * Graph Data Science with Neo4j [[Packt]](https://www.packtpub.com/product/graph-data-science-with-neo4j/9781804612743) [[Amazon]](https://www.amazon.com/dp/B0BT1TQHPC)
 
