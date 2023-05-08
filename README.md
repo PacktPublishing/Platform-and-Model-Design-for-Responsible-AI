@@ -78,8 +78,7 @@ and as part of their DeepTech Club.
 
 
 
-# Designing-Models-for-Responsible-AI
-Designing Models for Responsible AI
+# Additional Information
 
 Chapter 1
 •	keras-2.7.0, Tensorflow-2.7.0
