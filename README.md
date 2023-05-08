@@ -88,7 +88,7 @@ Chapter 1
 Reference :https://github.com/Koukyosyumei/AIJack/tree/main/src/aijack,
 https://github.com/Trusted-AI/adversarial-robustness-toolbox
 
-Chapter 2
+### Chapter 2
 
 * pip install adversarial-robustness-toolbox
 *	pip install presidio_analyzer
@@ -103,7 +103,7 @@ Chapter 2
 *	pip install mia
 *	pip install foolbox
 
-References :
+### References :
 * https://github.com/OpenMined/PySyft
 * https://github.com/ibarrond/Pyfhel
 * https://github.com/pralab/secml
