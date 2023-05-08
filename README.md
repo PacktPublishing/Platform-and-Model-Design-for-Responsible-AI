@@ -104,7 +104,7 @@ Chapter 2
 •	pip install foolbox
 
 References :
-https://github.com/OpenMined/PySyft
+* https://github.com/OpenMined/PySyft
 https://github.com/ibarrond/Pyfhel
 https://github.com/pralab/secml
 https://github.com/facebookresearch/CrypTen
