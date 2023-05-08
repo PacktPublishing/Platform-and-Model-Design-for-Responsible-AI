@@ -30,15 +30,13 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
-model.compile(optimizer='rmsprop', loss=aleatoric_loss,
-metrics=['mae'])
+model.compile(optimizer='rmsprop', loss=aleatoric_loss, metrics=['mae'])
 ```
 
 
 **Following is what you need for this book:**
 This book is for experienced machine learning professionals looking to understand the risks and leakages of ML models and frameworks, and learn to develop and use reusable components to reduce effort and cost in setting up and maintaining the AI ecosystem.		 
 
-Basic knowledge of Python will help you get more from the examples.	
 With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
 
 ### Software and Hardware List
